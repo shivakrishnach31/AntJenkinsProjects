@@ -23,6 +23,7 @@ public class FbTest {
 		dr.get("http://www.facebook.com");
 		System.out.println(dr.getTitle());
 		System.out.println("Test");
+		System.out.println("Test");
 	}
 
 }
