@@ -24,6 +24,7 @@ public class YahooTest {
 	public void test() {
 		driver.get("http://www.yahoo.com");
 		System.out.println(driver.getTitle());
+		System.out.println("sdds");
 	}
 
 }
